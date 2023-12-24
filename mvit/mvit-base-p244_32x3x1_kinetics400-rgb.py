@@ -260,4 +260,4 @@ visualizer = dict(
     type='ActionVisualizer', vis_backends=[
         dict(type='LocalVisBackend'),
     ])
-work_dir = 'train_mvit_3/'
+work_dir = 'train_mvit/'
