@@ -51,10 +51,10 @@ More further information about the kinetics dataset, you can refer to [mmaction2
 docker pull hienhayho/mmaction2
 
 # Start the docker container
-docker run -d --gpus all --shm-size=4G -it -v path/to/your/folder:path/to/your/folder --name [your_container_name] hienhayho/mmaction2:latest bash
+docker run -d --gpus all --shm-size=4G -it -v path/to/your/folder:path/to/your/folder --name mmaction2 hienhayho/mmaction2:latest bash
 
 # Execute your container
-docker exec -it [your_container_name] bash
+docker exec -it mmaction2 bash
 
 # Activate venv
 conda activate openmmlab
