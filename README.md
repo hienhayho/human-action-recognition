@@ -1,6 +1,6 @@
 # HUMAN ACTION RECOGNITION (VIDEO MERL SHOPPING)
 
-This is the code of mine in `Datathon 2023 Challenge` based on [`mmaction2`](https://github.com/open-mmlab/mmaction2), you can see the demo here: [Demo](https://youtu.be/5HXY9q-BNh8)
+This is the code of our team in `Datathon 2023 Challenge` based on [`mmaction2`](https://github.com/open-mmlab/mmaction2), you can see the demo here: [Demo](https://youtu.be/5HXY9q-BNh8)
 
 ## Prepare dataset:
 In this repo, I use format of `kinetics` datasets. Please follow the folder structure below:
